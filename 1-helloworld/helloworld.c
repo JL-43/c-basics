@@ -12,6 +12,7 @@
 int main(void)
 {
   printf("Hello world!\n");
+  printf("\tworld!\n");
   // function call in c
   // fucker(4);
   return 0;
